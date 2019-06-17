@@ -108,7 +108,7 @@ python -m pyelixys.web.database.populatedb
 
 This shall store a user with default settings onto the database.
 If the database did not already exist it will now!
-The user shall be returned to an an Ipython terminal upon completion.
+The user shall be returned to an Ipython terminal upon completion.
 At this point, a user may run additional scripts or commands.
 To exit Ipython, type `exit`.
 
